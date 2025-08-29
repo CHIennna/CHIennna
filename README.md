@@ -2,11 +2,11 @@
 
 <!--
 
-- 🎓 An ordinary undergraduate from Fuzhou University, China, hoping to enrich myself through learning and explore the wonders and beauty of more fields.
-- 🌱 Currently learning C++
-- 📫 How to reach me: 
-- 📫 Email: chiennna3505@gmail.com
-- 📫 QQ: 3556046446@qq.com
+## 🎓 An ordinary undergraduate from Fuzhou University, China, hoping to enrich myself through learning and explore the wonders and beauty of more fields.
+## 🌱 Currently learning C++
+## 📫 How to reach me: 
+## 📫 Email: chiennna3505@gmail.com
+## 📫 QQ: 3556046446@qq.com
 
 -->
 ## Github
