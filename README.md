@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello,World!!!
 
 <!--
-**CHIennna/CHIennna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🎓 An ordinary undergraduate from Fuzhou University, China, hoping to enrich myself through learning and explore the wonders and beauty of more fields.
+- 🌱 Currently learning C++
+- 📫 How to reach me: 
+- 📫 Email: chiennna3505@gmail.com
+- 📫 QQ: 3556046446@qq.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+## Github
+![stats]  
+
+
+
+
+[stats]: https://github-readme-stats.vercel.app/api?username=CHIennna&show_icons=true&show=reviews,prs_merged&cache_seconds=21600
